@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-	string a = "A", b = "B";
-	cout << (a > b ? a : b);
-	cout << "\nA:" << stoi(a) << " B:" << stoi(b);
+	cout << int(char("A")) << endl; // Returns 48
+	cout << int(char('A')) << endl;			// Returns 65
+	cout << int(char('\0'));
 	return 0;
 }

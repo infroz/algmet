@@ -1,4 +1,5 @@
 ﻿  main.cpp
 C:\Users\Infroz\source\repos\algmet\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\Users\Infroz\source\repos\algmet\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Infroz\source\repos\algmet\main.cpp(8,22): warning C4302: '<function-style-cast>': truncation from 'const char *' to 'char'
   algmet.vcxproj -> C:\Users\Infroz\source\repos\algmet\Debug\algmet.exe
