@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Infroz\source\repos\algmet\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Infroz\source\repos\algmet\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  algmet.vcxproj -> C:\Users\Infroz\source\repos\algmet\Debug\algmet.exe
